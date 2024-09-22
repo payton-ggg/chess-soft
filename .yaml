@@ -1,8 +1,0 @@
-name: Chess soft
-description: This is a sample YAML file
-version: 1.0.0
-dependencies:
-  - dependency1: 2.1.0
-maintainer:
-  name: Platon
-  telegram: quartzee
